@@ -1,4 +1,5 @@
 Jupyter notebooks for Machine Learning and Data Visualization with Python
+
 Please see the .html files for the resulting visuals and animations
 
 
