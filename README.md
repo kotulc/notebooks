@@ -1,13 +1,24 @@
-Jupyter notebooks for Machine Learning and Data Visualization with Python
+# Jupyter Notebooks  
 
-Please see the .html files for the resulting visuals and animations
+This project includes a sample of notebooks covering scikit-learn, pandas, and plotly.  
 
+## [net_charts](https://github.com/kotulc/notebooks/blob/master/net_charts.ipynb)  
 
-## net_charts
-Bar and line charts using Pandas and Plotly (still in progress)
+This notebook briefly covers creating some simple stylized charts using pandas and plotly. This was an exercise in working with these two libraries and exploring a few methods for displaying tightly clustered data from a network layer.  
 
-## net_graph
-A breif tutorial on creating animated network graphs with Pandas and Plotly
+[Render this notebook with nbviewer](https://nbviewer.jupyter.org/github/kotulc/notebooks/blob/master/net_charts.ipynb)  
+![net_charts thumbnail](/images/net_charts.png)  
 
-## scikit_pipelines
-Guided exploration of beginner and intermediate Scikit ML pipelines
+## [net_graph](https://github.com/kotulc/notebooks/blob/master/net_graph.ipynb)  
+
+Once I had a better grasp on these two libraries, I attempted to create a graphical representation of each network layer using a plotly graph plot. This notebook is a guided walk through the process of creating and animating this plot.  
+
+[Render this notebook with nbviewer](https://nbviewer.jupyter.org/github/kotulc/notebooks/blob/master/net_graph.ipynb)  
+![net_graph thumbnail](/images/net_graph.png)  
+
+## [scikit_pipelines](https://github.com/kotulc/notebooks/blob/master/scikit_pipelines.ipynb)  
+ 
+The scikit_pipelines notebook covers the basics of sklearn pipelines using the entry-level Kaggle house data set for illustrative purposes.  
+ 
+[Render this notebook with nbviewer](https://nbviewer.jupyter.org/github/kotulc/notebooks/blob/master/scikit_pipelines.ipynb)  
+![pipelines thumbnail](/images/pipeline.png)  
